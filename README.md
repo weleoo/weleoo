@@ -1,81 +1,50 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3a8a,2563eb,0d9488&height=200&section=header&text=Hi%20there,%20I'm%20Waleed%20Adel%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-### 🚀 Flutter & Mobile App Engineer | Cloud & BaaS Enthusiast (.NET & Firebase/Supabase)
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-<p align="center">
-  Crafting high-performance, enterprise-grade cross-platform mobile applications with clean architecture, fluid 60 FPS UIs, and robust backend integrations.
-</p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
 
-<!-- Social Badges (استبدل الروابط بحساباتك الشخصية) -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+</details>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Telegram-Waleed_Adel-blue?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM_USERNAME) <br>
 </div>
 
-<hr/>
+<hr></hr>
 
-### 🛠️ Tech Stack & Toolbelt
-
-<div align="center">
-
-<!-- Mobile & Languages -->
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-<!-- Cloud & Databases -->
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<!-- Tools & Architecture -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<br>
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 
 ```dart
-// Waleed Adel in Code
+// tools_I_use organized
 
-class SoftwareEngineer extends Developer {
-  final String name = 'Waleed Adel';
-  final String role = 'Mobile Application Engineer';
-  final List<String> primaryFocus = [
-    'Enterprise ERP & Supply Chain Mobile Systems',
-    'High-Performance Flutter (60 FPS & Profiling)',
-    'Offline-First Architecture & State Management (Bloc / Cubit / Provider)',
-    'Cloud-Native Sync (Firebase, Supabase Realtime & PostgreSQL)'
-  ];
-
-  final Map<String, dynamic> skills = {
-    'mobile': ['Flutter', 'Dart', 'Custom Painting & Thermal/PDF Printing', 'DevTools'],
-    'backend_and_cloud': ['.NET Web APIs', 'C#', 'Firebase Suite', 'Supabase BaaS'],
-    'databases': ['PostgreSQL', 'Cloud Firestore', 'SQLite / Hive'],
-    'architecture': ['Clean Architecture', 'SOLID Principles', 'Repository Pattern'],
+class About extends WaleedAdel { 
+  const myTools = {  
+    "MobileDevelopment" : { "Flutter", "Dart", "State Management (Bloc / Cubit)", "DevTools" },
+    "BackendAndCloud"   : { ".NET Core", "C#", "Firebase", "Supabase" },
+    "Databases"         : { "PostgreSQL", "Cloud Firestore", "SQLite" },
+    "EditorsAndIDEs"    : { "VS Code", "Android Studio" },
+    "Tools"             : { "Git", "GitHub", "Postman", "Figma" },
+    "Platforms"         : { "Android", "iOS", "Windows" }
   };
-
-  void codePhilosophy() {
-    print('Clean code, predictable state, and zero dropped frames.');
-  }
 }

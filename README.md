@@ -1,20 +1,13 @@
-<div align="center">
+<div align="center" width="50">
 
-<!-- بانر كتابة متحرك باسمك الحقيقي -->
-<a href="https://github.com/weleoo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1000&color=0055D0&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Waleed+Adel;Software+%26+Flutter+Engineer;Building+High-Performance+Apps" alt="Waleed Adel Typing SVG" />
-</a>
-<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br><br>
 
-<!-- صورة المطور وهو يعمل (بدون أي أسماء) -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="45%"/><br><br>
-
-<!-- عداد زوار بروفايلك الرسمي -->
 ![Profile Views](https://komarev.com/ghpvc/?username=weleoo&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
-<hr>
+<hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -35,13 +28,9 @@
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 
 ```dart
-// 👨‍💻 Developer Profile
+// tools_I_use organized
 
-class Developer {
-  final String name = "Waleed Adel";
-  final String role = "Software & Mobile Engineer";
-  final String github = "weleoo";
-
+class About extends WaleedAdel { 
   const myTools = {  
     "MobileDevelopment" : { "Flutter", "Dart", "State Management (Bloc / Cubit)", "DevTools" },
     "BackendAndCloud"   : { ".NET Core", "C#", "Firebase", "Supabase" },
@@ -51,3 +40,4 @@ class Developer {
     "Platforms"         : { "Android", "iOS", "Windows" }
   };
 }
+
